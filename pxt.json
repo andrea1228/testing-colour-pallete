@@ -1,0 +1,46 @@
+{
+    "name": "Testing colour pallete",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#e98e81",
+        "#b3a6ad",
+        "#1b2d79",
+        "#6d2b65",
+        "#9a3b67",
+        "#d3204e",
+        "#04b3f3",
+        "#45c9f3",
+        "#1472d2",
+        "#7381a9",
+        "#396b9d",
+        "#76b5c5",
+        "#21130d",
+        "#873e23",
+        "#abdbe3"
+    ]
+}
